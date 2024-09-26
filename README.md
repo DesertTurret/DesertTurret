@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DesertTurret
 - 👀 I’m interested in gaming, music and content creation
-- 🌱 I’m currently learning python and c#
+- 🌱 I’m currently learning python and php
 - 💞️ I’m looking to collaborate on mods and games
-- 📫 How to reach me  discord, youtube channel and twitch channel al on the same name
+- 📫 How to reach me: discord, youtube channel and twitch channel are all on the same name
 - 😄 Pronouns: fuck/that
 - ⚡ Fun fact: what am I even supposed to put here
 
